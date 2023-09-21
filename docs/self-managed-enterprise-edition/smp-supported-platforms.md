@@ -57,3 +57,6 @@ The following permissions are required:
 * [External Database](/tutorials/self-managed-enterprise-edition)
 * Disaster Recovery (coming soon)
 
+## Not validated functionality
+* Self Managed Platform on FIPS-enabled K8s nodes
+
